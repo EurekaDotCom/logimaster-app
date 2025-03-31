@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3cf62e8b16808a449582b09d0bfb7b1, type: 3}
+  m_Name: 2_French
+  m_EditorClassIdentifier: 
+  languageID: 2
+  languageName: "Fran\xE7ais"
+  languageAbreviature: FR
+  strings:
+  - "Veuillez entrer vos identifiants \r\npour vous connecter"
+  - Email
+  - Mot de passe
+  - L'email ou le mot de passe est incorrect !
+  - Connexion
+  - "D\xC9MARRER LA CAM\xC9RA"
+  - IMPRIMER LE QR
+  - "LICENCE EXPIR\xC9E"
+  - "Veuillez contacter \r\nl'administrateur de l'entreprise."
+  - "D\xC9CONNEXION"
+  - "Num\xE9ro de s\xE9rie"
+  - Emplacement
+  - Destination
+  - "Mat\xE9riau"
+  - Taille, mm
+  - "Quantit\xE9 pour la destination"
+  - "Quantit\xE9 totale"
+  - "Transf\xE9rer"
+  - Code QR invalide
+  - "Veuillez r\xE9essayer"
+  - OK
+  - IMPRIMER QR
+  - "D\xE9marrer"
+  - Montant
+  - "Entrep\xF4t"
+  - Taille
+  - "Quantit\xE9"
+  - Imprimer
+  - Choisissez une DESTINATION
+  - "Vous \xEAtes sur le point d'imprimer"
+  - Code(s) QR
+  - ANNULER
+  - "Vous \xEAtes sur le point de TRANSF\xC9RER"
+  - PRODUITS AU CLIENT
+  - "Choisissez votre mat\xE9riau"
+  - Ajouter
+  - "CAT\xC9GORIE"
+  - "MAT\xC9RIAU / D\xC9TAIL"
+  - "SUPPRIMER LA CAT\xC9GORIE"
+  - "Vous \xEAtes sur le point de supprimer la cat\xE9gorie et son contenu."
+  - "PROC\xC9DER"
+  - "CHOISIR LE FORMAT DU MAT\xC9RIAU"
+  - Longueur
+  - Largeur
+  - "\xC9paisseur"
+  - "TERMIN\xC9"
+  - "Cat\xE9gorie parente"
+  - "Nom de la cat\xE9gorie"
+  - AJOUTER
+  - Choisissez votre PARENT
+  - Article
+  - Description
+  - "AJOUTEZ VOTRE MAT\xC9RIAU"
+  - "Choisissez votre CAT\xC9GORIE"
+  - Pas de connexion Internet
+  - "Veuillez v\xE9rifier votre connexion Internet \r\net r\xE9essayer."
+  - Prendre une photo
+  - "Red\xE9marrer"
+  - "ENVOY\xC9 \xC0 L'IMPRIMANTE"
+  - "Votre code QR devrait \xEAtre imprim\xE9 dans les 30 secondes."
+  - Bonjour
+  - Veuillez scanner le code QR du produit pour afficher ses informations.
+  - "EXPLORER LE R\xC9PERTOIRE"

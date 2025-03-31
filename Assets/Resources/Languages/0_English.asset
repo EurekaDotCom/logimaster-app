@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3cf62e8b16808a449582b09d0bfb7b1, type: 3}
+  m_Name: 0_English
+  m_EditorClassIdentifier: 
+  languageID: 0
+  languageName: English
+  languageAbreviature: EN
+  strings:
+  - "Please enter your credentials \r\nto log in"
+  - Email
+  - Password
+  - The email or password is incorrect!
+  - login
+  - START THE CAMERA
+  - PRINT THE QR
+  - LICENSE EXPIRED
+  - "Please get in touch with \r\nthe Company Administrator."
+  - LOGOUT
+  - Serial number
+  - slot
+  - Destination
+  - Material
+  - Size, mm
+  - Quantity for the destination
+  - Quantity in total
+  - Transfer
+  - Invalid QR code
+  - Please try again
+  - ok
+  - PRINT QR
+  - Start
+  - Amount
+  - Warehouse
+  - Size
+  - Quantity
+  - Print
+  - Choose a DESTINATION
+  - You are about to print
+  - QR Code(s)
+  - CANCEL
+  - You are about to TRANSFER
+  - PRODUCTS TO THE CLIENT
+  - Choose your material
+  - Add
+  - CATEGORY
+  - MATERIAL / DETAIL
+  - REMOVE CATEGORY
+  - "You\u2019re about to delete the category with its contents."
+  - PROCEED
+  - CHOOSE MATERIAL FORMAT
+  - Length
+  - Width
+  - Thickness
+  - DONE
+  - Parent Category
+  - Category Name
+  - ADD
+  - Choose your PARENT
+  - Article
+  - Description
+  - ADD your MATERIAL
+  - Choose your CATEGORY
+  - No internet connection
+  - "Please check your internet connection \r\nand try again."
+  - Make Photo
+  - Restart
+  - SENT TO PRINTER
+  - Your QR code should be printed in 30 seconds.
+  - Hello
+  - "please scan the QR Code of the product to view it\u2019s info."
+  - EXPLORE THE DIRECTORY

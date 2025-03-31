@@ -1,2 +1,3 @@
-# logimaster-app
-A mobile app for WMS system
+# Unity QR code Scanner
+
+This is a simple implementation of QR Code Scanner in Unity. Build for Android/iOS/Windows.

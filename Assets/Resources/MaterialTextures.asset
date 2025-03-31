@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 120dc3bf561f4eb4c8dd1bf7aa266a05, type: 3}
+  m_Name: MaterialTextures
+  m_EditorClassIdentifier: 
+  m_Textures:
+  - imageID: 4
+    materialIcon: {fileID: 21300000, guid: a8a4fa1ba26563c4eb2d88c38f6884f3, type: 3}
+    faceTexture: {fileID: 2800000, guid: 7ea9f2d36eecf814499e4dcab3993299, type: 3}
+    sideTexture: {fileID: 2800000, guid: 682afcd11e664644c82d653ec83ca66e, type: 3}
+  - imageID: 3
+    materialIcon: {fileID: 21300000, guid: 04d56fdf0ea3b834ebf714b08cae28e9, type: 3}
+    faceTexture: {fileID: 2800000, guid: 80f7436de23fb5947a1c4d2adc1489df, type: 3}
+    sideTexture: {fileID: 2800000, guid: 80f7436de23fb5947a1c4d2adc1489df, type: 3}
+  - imageID: 2
+    materialIcon: {fileID: 21300000, guid: da479bd0432c5a84689044caf6f0a6bd, type: 3}
+    faceTexture: {fileID: 2800000, guid: 842102e68aab63c4cbccfd973c7e603d, type: 3}
+    sideTexture: {fileID: 2800000, guid: 842102e68aab63c4cbccfd973c7e603d, type: 3}
+  - imageID: 0
+    materialIcon: {fileID: 21300000, guid: 0177e65fa9f4787488d2252bd99e125a, type: 3}
+    faceTexture: {fileID: 2800000, guid: b97448a6033e2bd4fad9b310e132e20b, type: 3}
+    sideTexture: {fileID: 2800000, guid: 6505edb684ba836448970a102fb2799a, type: 3}
+  - imageID: 1
+    materialIcon: {fileID: 21300000, guid: 2e19de22004337a4083b0631eeb21c4f, type: 3}
+    faceTexture: {fileID: 2800000, guid: 0c6fe36897be4a348990e5a3f85ab5f4, type: 3}
+    sideTexture: {fileID: 2800000, guid: f52cc7bee73a92c479bdb53ffd98b145, type: 3}
+  - imageID: 5
+    materialIcon: {fileID: 21300000, guid: 8c20851c7b17ef64599f405d8a1b6886, type: 3}
+    faceTexture: {fileID: 2800000, guid: ad3fa6119bf1ee44ebe6705f206f3117, type: 3}
+    sideTexture: {fileID: 2800000, guid: b9264b996c7d99447a01e8cf869a3b8c, type: 3}

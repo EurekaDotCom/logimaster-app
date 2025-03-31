@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3cf62e8b16808a449582b09d0bfb7b1, type: 3}
+  m_Name: 3_Deutsch
+  m_EditorClassIdentifier: 
+  languageID: 3
+  languageName: Deutsch
+  languageAbreviature: DE
+  strings:
+  - "Bitte geben Sie Ihre Zugangsdaten ein, \r\num sich anzumelden"
+  - E-Mail
+  - Passwort
+  - Die E-Mail oder das Passwort ist falsch!
+  - Anmelden
+  - KAMERA STARTEN
+  - QR DRUCKEN
+  - LIZENZ ABGELAUFEN
+  - "Bitte wenden Sie sich an \r\nden Unternehmensadministrator."
+  - ABMELDEN
+  - Seriennummer
+  - Slot
+  - Ziel
+  - Material
+  - "Gr\xF6\xDFe, mm"
+  - "Menge f\xFCr das Ziel"
+  - Gesamtmenge
+  - "\xDCbertragen"
+  - "Ung\xFCltiger QR-Code"
+  - Bitte versuchen Sie es erneut
+  - OK
+  - QR DRUCKEN
+  - Start
+  - Betrag
+  - Lager
+  - "Gr\xF6\xDFe"
+  - Menge
+  - Drucken
+  - "W\xE4hlen Sie ein ZIEL"
+  - Sie sind dabei, zu drucken
+  - QR-Code(s)
+  - ABBRECHEN
+  - "Sie sind dabei, zu \xDCBERTRAGEN"
+  - PRODUKTE AN DEN KUNDEN
+  - "W\xE4hlen Sie Ihr Material"
+  - "Hinzuf\xFCgen"
+  - KATEGORIE
+  - MATERIAL / DETAIL
+  - KATEGORIE ENTFERNEN
+  - "Sie sind dabei, die Kategorie mit ihrem Inhalt zu l\xF6schen."
+  - FORTFAHREN
+  - "MATERIALFORMAT W\xC4HLEN"
+  - "L\xE4nge"
+  - Breite
+  - Dicke
+  - FERTIG
+  - "\xDCbergeordnete Kategorie"
+  - Kategoriename
+  - "HINZUF\xDCGEN"
+  - "W\xE4hlen Sie Ihren \xDCBERGEORDNETEN"
+  - Artikel
+  - Beschreibung
+  - "Ihr MATERIAL HINZUF\xDCGEN"
+  - "W\xE4hlen Sie Ihre KATEGORIE"
+  - Keine Internetverbindung
+  - "Bitte \xFCberpr\xFCfen Sie Ihre Internetverbindung \r\nund versuchen Sie es
+    erneut."
+  - Foto machen
+  - Neustart
+  - AN DEN DRUCKER GESENDET
+  - Ihr QR-Code sollte innerhalb von 30 Sekunden gedruckt werden.
+  - Hallo
+  - Bitte scannen Sie den QR-Code des Produkts, um dessen Informationen anzuzeigen.
+  - ENTDECKEN SIE DAS VERZEICHNIS
